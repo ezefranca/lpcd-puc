@@ -1,1 +1,1 @@
-# lpcd-puc
+# puc-minas
